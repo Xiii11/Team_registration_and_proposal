@@ -47,4 +47,23 @@ Demand Forecast Graphs: Using predictive models, we will create graphs that fore
 #### Coding challenges: 
 Creating an intuitive for the interactive maps and other tools poses a significant challenge.
 
+#### The planned timeline:
+```{r, message=FALSE, echo=FALSE}
+timeline <- data.frame(
+  Date = c("Oct.28", "Nov.1", "Nov.4 - 8", "Nov.9 - Dec.1", "Dec.7"),
+  Description = c("Project brainstorming", "Forming proposal", 
+                  "Project review meeting", "Constructing the project", 
+                  "Report / Webpage and screencast / Peer assessment"),
+  Resource_Notes = c("Dataset confirm", "", 
+                     "Confirm the project details with the guide TA", 
+                     "", ""),
+  Deliverable = c("", "Final proposal", 
+                  "All team members are in agreement about the project. No deliverable.",
+                  "", "Final Products")
+) 
+
+knitr::kable(timeline)
+```
+
+
 

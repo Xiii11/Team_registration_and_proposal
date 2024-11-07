@@ -71,3 +71,13 @@ manage and plan for peak times.
 
 Creating an intuitive for the interactive maps and other tools poses a
 significant challenge.
+
+#### The planned timeline:
+
+| Date | Description | Resource_Notes | Deliverable |
+|:---|:---|:---|:---|
+| Oct.28 | Project brainstorming | Dataset confirm |  |
+| Nov.1 | Forming proposal |  | Final proposal |
+| Nov.4 - 8 | Project review meeting | Confirm the project details with the guide TA | All team members are in agreement about the project. No deliverable. |
+| Nov.9 - Dec.1 | Constructing the project |  |  |
+| Dec.7 | Report / Webpage and screencast / Peer assessment |  | Final Products |
