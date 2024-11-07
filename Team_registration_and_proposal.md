@@ -2,8 +2,10 @@ Team Registration and Proposal
 ================
 2024-11-07
 
-Group member \[UNI\]: <br> Anni Wang \[aw3621\] <br> Yifan Shi
-\[ys3766\] <br> Qi Cai \[qc2337\] <br> Xi Peng\[xp2213\]
+### Group member \[UNI\]:
+
+<br> Anni Wang \[aw3621\] <br> Yifan Shi \[ys3766\] <br> Qi Cai
+\[qc2337\] <br> Xi Peng\[xp2213\]
 
 ### The tentative project title:
 

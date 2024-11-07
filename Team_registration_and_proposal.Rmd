@@ -4,7 +4,7 @@ output: github_document
 date: "2024-11-07"
 ---
 
-Group member [UNI]:
+### Group member [UNI]:
 <br>
 Anni Wang [aw3621]
 <br>
@@ -19,15 +19,15 @@ library(tidyverse)
 ```
 
 ### The tentative project title: 
-NYC Necessities Unveiled: The Ultimate Tourist's Guide to Finding Public Restrooms
+Understanding the Impact of Active Design on Physical Activity and Transportation in New York City
 
 ### The motivation for this project: 
-Finding a public restroom in New York City can be a significant challenge for both tourists and locals alike. The bustling streets and dense urban layout often leave visitors scrambling to find accessible facilities, especially in times of need. Additionally, some restaurants and businesses restrict bathroom access to customers only or do not offer public restrooms at all, which adds to the frustration.
+New York City’s efforts to enhance public health through urban design, transportation infrastructure, and active living environments are crucial for promoting physical activity, reducing transportation-related injuries, and improving community health outcomes. By analyzing walkability, physical activity rates, commuting modes, and transportation-related injuries, this project aims to understand how active design principles contribute to or hinder public health in NYC neighborhoods. This project is motivated by a need to identify urban design factors that effectively promote health, safety, and well-being across diverse communities in NYC.
 
 ### The intended final products:(need to be edited later)
 This project aims to provide a comprehensive, user-friendly guide that maps out public restroom locations across the city. By leveraging open data sources, this guide will help alleviate the stress of finding a toilet in NYC, enhancing the overall experience for tourists and residents. The goal is to ensure that everyone can explore the city with confidence, knowing that they have reliable information on where to find necessary amenities, including which facilities are truly available to the public without any prerequisites.
 
-### The anticipated [data sources](https://data.cityofnewyork.us/City-Government/Public-Restrooms-Operational-/vzrx-zg6z):
+### The anticipated [data sources](https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/):
 The latest public restroom data extracted from the NYC Open Data website.
 
 ### The planned analyses / visualizations / coding challenges:
