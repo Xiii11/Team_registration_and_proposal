@@ -50,7 +50,6 @@ We will be using the environment and health data published by
 
 ### The planned analyses / visualizations / coding challenges:
 
-<<<<<<< HEAD
 1.  **Data Cleaning and Integration**
     - Standardize variable names, data types, and formats across
       multiple datasets (active design, physical activity, socioeconomic
@@ -88,49 +87,13 @@ We will be using the environment and health data published by
     - Including many predictors may lead to multicollinearity, making it
       difficult to interpret model coefficients and reducing model
       stability.
-=======
-#### Planned analyses:
 
-Data Cleaning and Preprocessing: Our first step will involve rigorous
-data cleaning and preprocessing to ensure accuracy and usability. This
-will include handling missing values, verifying the accuracy of the
-location data, and standardizing restroom facility attributes (such as
-accessibility features and hours of operation) for consistent analysis.
+### The planned timeline:
 
-Geospatial Analysis: We plan to perform geospatial analysis to identify
-areas within NYC that are underserved by public restroom facilities. By
-integrating the restroom data with maps and demographic information, we
-can highlight neighborhoods where improvements are needed, potentially
-influencing urban planning and accessibility efforts.
-
-Usage Patterns and Predictive Modelling: We aim to analyze patterns of
-restroom availability and predict potential high-demand areas. This
-could involve temporal analysis to understand peak times and seasons for
-restroom usage, helping tourists and locals plan their outings more
-effectively.
-
-#### Visualization:
-
-Heatmaps of Restroom Availability: To illustrate restroom density and
-accessibility, we will create heatmaps that show how well different
-parts of the city are served. This visualization will help identify
-“restroom deserts” and can be used for advocacy and planning. Demand
-Forecast Graphs: Using predictive models, we will create graphs that
-forecast restroom demand across different times and areas, helping to
-manage and plan for peak times.
-
-#### Coding challenges:
-
-Creating an intuitive for the interactive maps and other tools poses a
-significant challenge.
-
-#### The planned timeline:
-
-| Date | Description | Resource_Notes | Deliverable |
-|:---|:---|:---|:---|
-| Oct.28 | Project brainstorming | Dataset confirm |  |
-| Nov.1 | Forming proposal |  | Final proposal |
-| Nov.4 - 8 | Project review meeting | Confirm the project details with the guide TA | All team members are in agreement about the project. No deliverable. |
-| Nov.9 - Dec.1 | Constructing the project |  |  |
-| Dec.7 | Report / Webpage and screencast / Peer assessment |  | Final Products |
->>>>>>> c8c2f7bf03a2a975db420aa8826e0048f5dc2df3
+| Date          | Description                                       | Resource_Notes                                | Deliverable                                                          |
+|:--------------|:--------------------------------------------------|:----------------------------------------------|:---------------------------------------------------------------------|
+| Oct.28        | Project brainstorming                             | Dataset confirm                               |                                                                      |
+| Nov.1         | Forming proposal                                  |                                               | Final proposal                                                       |
+| Nov.4 - 8     | Project review meeting                            | Confirm the project details with the guide TA | All team members are in agreement about the project. No deliverable. |
+| Nov.9 - Dec.1 | Constructing the project                          |                                               |                                                                      |
+| Dec.7         | Report / Webpage and screencast / Peer assessment |                                               | Final Products                                                       |
