@@ -7,7 +7,7 @@ Team Registration and Proposal
 - Anni Wang \[aw3621\]
 - Yifan Shi \[ys3766\]
 - Qi Cai \[qc2337\]
-- Xi Peng\[xp2213\]
+- Xi Peng \[xp2213\]
 
 ### The tentative project title:
 
