@@ -62,7 +62,7 @@ We will be using the environment and health data published by [nyc.gov](https://
 ```{r, message=FALSE, echo=FALSE}
 planned_timeline <- data.frame(
   Date = c("Nov.11-15", "Nov.18-22", "Nov.30-5", "Dec.5-7", "Dec.12"),
-  Deliverable = c(
+  Task = c(
     "Dataset Preparation and clean, ensuring data is ready for exploratory analyses",
     "Establish the basic structure for the project website, including key pages and navigation",
     "Draft the project report and polish the website content; prepare screencast recording and finalize main content",

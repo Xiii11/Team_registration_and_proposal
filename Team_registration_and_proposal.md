@@ -92,7 +92,7 @@ We will be using the environment and health data published by
 
 ### The planned timeline:
 
-| Date | Deliverable |
+| Date | Task |
 |:---|:---|
 | Nov.11-15 | Dataset Preparation and clean, ensuring data is ready for exploratory analyses |
 | Nov.18-22 | Establish the basic structure for the project website, including key pages and navigation |
