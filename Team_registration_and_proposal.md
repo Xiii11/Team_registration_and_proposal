@@ -4,28 +4,30 @@ Team Registration and Proposal
 
 ### Group member \[UNI\]:
 
-<br> Anni Wang \[aw3621\] <br> Yifan Shi \[ys3766\] <br> Qi Cai
-\[qc2337\] <br> Xi Peng\[xp2213\]
+- Anni Wang \[aw3621\]
+- Yifan Shi \[ys3766\]
+- Qi Cai \[qc2337\]
+- Xi Peng\[xp2213\]
 
 ### The tentative project title:
 
-Understanding the Impact of Active Design on Physical Activity and
-Transportation in New York City
+- Understanding the Impact of Active Design on Physical Activity and
+  Transportation in New York City
 
 ### The motivation for this project:
 
-New York City’s efforts to enhance public health through urban design,
-transportation infrastructure, and active living environments are
-crucial for promoting physical activity, reducing transportation-related
-injuries, and improving community health outcomes. By analyzing
-walkability, physical activity rates, commuting modes, and
-transportation-related injuries, this project aims to understand how
-active design principles contribute to or hinder public health in NYC
-neighborhoods. This project is motivated by a need to identify urban
-design factors that effectively promote health, safety, and well-being
-across diverse communities in NYC.
+- New York City’s efforts to enhance public health through urban design,
+  transportation infrastructure, and active living environments are
+  crucial for promoting physical activity, reducing
+  transportation-related injuries, and improving community health
+  outcomes. By analyzing walkability, physical activity rates, commuting
+  modes, and transportation-related injuries, this project aims to
+  understand how active design principles contribute to or hinder public
+  health in NYC neighborhoods. This project is motivated by a need to
+  identify urban design factors that effectively promote health, safety,
+  and well-being across diverse communities in NYC.
 
-### The intended final products:(need to be edited later)
+### The intended final products (will be modified as needed)：
 
 This project will generate a comprehensive report that includes data
 analysis, findings, and policy recommendations. This report will cover:
@@ -46,7 +48,7 @@ analysis, findings, and policy recommendations. This report will cover:
 ### The anticipated data sources:
 
 We will be using the environment and health data published by
-[nyc.gov](https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/)
+[nyc.gov](https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/).
 
 ### The planned analyses / visualizations / coding challenges:
 
@@ -90,10 +92,10 @@ We will be using the environment and health data published by
 
 ### The planned timeline:
 
-| Date          | Description                                       | Resource_Notes                                | Deliverable                                                          |
-|:--------------|:--------------------------------------------------|:----------------------------------------------|:---------------------------------------------------------------------|
-| Oct.28        | Project brainstorming                             | Dataset confirm                               |                                                                      |
-| Nov.1         | Forming proposal                                  |                                               | Final proposal                                                       |
-| Nov.4 - 8     | Project review meeting                            | Confirm the project details with the guide TA | All team members are in agreement about the project. No deliverable. |
-| Nov.9 - Dec.1 | Constructing the project                          |                                               |                                                                      |
-| Dec.7         | Report / Webpage and screencast / Peer assessment |                                               | Final Products                                                       |
+| Date | Deliverable |
+|:---|:---|
+| Nov.11-15 | Dataset Preparation and clean, ensuring data is ready for exploratory analyses |
+| Nov.18-22 | Establish the basic structure for the project website, including key pages and navigation |
+| Nov.30-5 | Draft the project report and polish the website content; prepare screencast recording and finalize main content |
+| Dec.5-7 | Webpage, report, screencast completion |
+| Dec.12 | “In class” discussion of projects |

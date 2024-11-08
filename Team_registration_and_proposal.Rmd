@@ -5,26 +5,22 @@ date: "2024-11-07"
 ---
 
 ### Group member [UNI]:
-<br>
-Anni Wang [aw3621]
-<br>
-Yifan Shi [ys3766] 
-<br>
-Qi Cai [qc2337] 
-<br>
-Xi Peng[xp2213]
+- Anni Wang [aw3621]
+- Yifan Shi [ys3766] 
+- Qi Cai [qc2337] 
+- Xi Peng[xp2213]
 
 ```{r setup, include=FALSE}
 library(tidyverse)
 ```
 
 ### The tentative project title: 
-Understanding the Impact of Active Design on Physical Activity and Transportation in New York City
+- Understanding the Impact of Active Design on Physical Activity and Transportation in New York City
 
 ### The motivation for this project: 
-New York City’s efforts to enhance public health through urban design, transportation infrastructure, and active living environments are crucial for promoting physical activity, reducing transportation-related injuries, and improving community health outcomes. By analyzing walkability, physical activity rates, commuting modes, and transportation-related injuries, this project aims to understand how active design principles contribute to or hinder public health in NYC neighborhoods. This project is motivated by a need to identify urban design factors that effectively promote health, safety, and well-being across diverse communities in NYC.
+- New York City’s efforts to enhance public health through urban design, transportation infrastructure, and active living environments are crucial for promoting physical activity, reducing transportation-related injuries, and improving community health outcomes. By analyzing walkability, physical activity rates, commuting modes, and transportation-related injuries, this project aims to understand how active design principles contribute to or hinder public health in NYC neighborhoods. This project is motivated by a need to identify urban design factors that effectively promote health, safety, and well-being across diverse communities in NYC.
 
-### The intended final products:(need to be edited later)
+### The intended final products (will be modified as needed)：
 This project will generate a comprehensive report that includes data analysis, findings, and policy recommendations. This report will cover:
 
 - Descriptive summaries of walkability, physical activity, transportation modes, and injury rates across NYC neighborhoods.
@@ -38,7 +34,7 @@ This project will generate a comprehensive report that includes data analysis, f
 
 ### The anticipated data sources:
 
-We will be using the environment and health data published by [nyc.gov](https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/)
+We will be using the environment and health data published by [nyc.gov](https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/).
 
 ### The planned analyses / visualizations / coding challenges:
 
@@ -64,20 +60,18 @@ We will be using the environment and health data published by [nyc.gov](https://
 
 ### The planned timeline:
 ```{r, message=FALSE, echo=FALSE}
-timeline <- data.frame(
-  Date = c("Oct.28", "Nov.1", "Nov.4 - 8", "Nov.9 - Dec.1", "Dec.7"),
-  Description = c("Project brainstorming", "Forming proposal", 
-                  "Project review meeting", "Constructing the project", 
-                  "Report / Webpage and screencast / Peer assessment"),
-  Resource_Notes = c("Dataset confirm", "", 
-                     "Confirm the project details with the guide TA", 
-                     "", ""),
-  Deliverable = c("", "Final proposal", 
-                  "All team members are in agreement about the project. No deliverable.",
-                  "", "Final Products")
-) 
+planned_timeline <- data.frame(
+  Date = c("Nov.11-15", "Nov.18-22", "Nov.30-5", "Dec.5-7", "Dec.12"),
+  Deliverable = c(
+    "Dataset Preparation and clean, ensuring data is ready for exploratory analyses",
+    "Establish the basic structure for the project website, including key pages and navigation",
+    "Draft the project report and polish the website content; prepare screencast recording and finalize main content",
+    "Webpage, report, screencast completion",
+    "“In class” discussion of projects"
+  )
+)
 
-knitr::kable(timeline)
+knitr::kable(planned_timeline)
 ```
 
 
